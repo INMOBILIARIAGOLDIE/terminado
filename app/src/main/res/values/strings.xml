@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">INMOBILIRIA  GOLDIE</string>
+
+    <string-array name="Ciudad">
+        <item>Beni</item>
+        <item>Cochabamba</item>
+        <item>La Paz</item>
+        <item>Oruro</item>
+        <item>Pando</item>
+        <item>Potosi</item>
+        <item>Santa Cruz</item>
+        <item>Sucre</item>
+        <item>Tarija</item>
+    </string-array>
+
+    <string-array name="tipo">
+        <item>Casa</item>
+        <item>Departamento</item>
+        <item>Condominio</item>
+        <item>Terreno</item>
+    </string-array>
+
+    <string-array name="estado">
+        <item>Venta</item>
+        <item>Anticretico</item>
+        <item>Alquiler</item>
+    </string-array>
+
+    <string name="title_activity_main_list_inmuebles">MainListInmueblesActivity</string>
+    <string name="title_activity_detalle_list_inmuebles">DetalleListInmuebles</string>
+    <string name="title_activity_main_tabbets_homes">MainTabbetsHomes</string>
+    <string name="tab_text_1">Casas</string>
+    <string name="tab_text_2">Mapa</string>
+    <string name="tab_text_3">Busqueda</string>
+    <string name="tab_text_4">Registros</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_lat_lon_map_form">Map</string>
+    <string name="title_activity_lat_lon_maps">Map</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "915485988401",
+    "firebase_url": "https://casasgoldie.firebaseio.com",
+    "project_id": "casasgoldie",
+    "storage_bucket": "casasgoldie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915485988401:android:aec9b9dc4b9b9ada",
+        "android_client_info": {
+          "package_name": "com.example.vania.goldieinmobiliario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915485988401-oqdb6tj5u4m1vfk4si79vqps1q70om7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vania.goldieinmobiliario",
+            "certificate_hash": "e7edf5cc7540026211f0354a29f69893779382df"
+          }
+        },
+        {
+          "client_id": "915485988401-e9hrac3een0o3gao5okqog69o8ufpnud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBivPQnHMBvWHfLzCcd4ypC1ZPXA4CPEUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915485988401-e9hrac3een0o3gao5okqog69o8ufpnud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
